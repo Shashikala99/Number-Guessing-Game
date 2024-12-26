@@ -1,0 +1,56 @@
+#number-guess{
+    
+    max-width: 2500px;
+    margin: 10 auto;
+    
+    
+
+}
+#result {
+    text-align: center;
+    border: 0ch;
+    text
+
+
+
+}
+#history {
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(7, 12, 116);
+    
+    
+    
+
+}
+
+.banner{
+    
+    text-align: center;
+    color:rgb(7, 12, 116);
+    font-size: 100px;
+    font-family: sans-serif;
+}
+
+div,p{
+    color:rgb(7, 12, 116);
+    text-align: center;
+    text-decoration: solid;
+    border: 1cm;
+    
+    
+
+}
+body{
+    
+    opacity: 1;
+    
+}
+.center{
+    margin: auto;
+    width:50%;
+    border: 3px solid blue;
+    padding:10px;
+}
+
+ 
